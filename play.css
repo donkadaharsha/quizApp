@@ -1,0 +1,109 @@
+h1{
+    color: white;
+    text-align: center;
+    margin-left: 250;
+    /* font-size: xxx-large; */
+    font-family: cursive;
+    margin-left: 325;
+}
+.images{
+    
+    max-inline-size: 300pt;
+    margin-left: 425;
+    margin-top: 50;
+    
+    
+}
+.options{
+    margin-left: 450;
+    margin-top: 20pt;
+    font-size: 50;
+    cursor: pointer;
+    /* color: black; */
+    color: aliceblue;
+}
+#option1{
+    margin-left: 0pt;
+    width: 620;
+    text-align: center;
+}
+#option2{
+    margin-left: 0630;
+    margin-top: -55;
+    width: 630;
+    text-align: center;
+}
+#option3{
+    margin-left: 0;
+    margin-top: 65;
+    width: 620;
+    text-align: center;
+}
+#option4{
+    margin-left: 630;
+    margin-top: -55;
+    width: 630;
+    text-align: center;
+}
+body{
+    width: 900px;
+    background-color: rgb(20, 23, 20);
+    /* background-size: 100% 100%; */
+}
+hr {
+    width: 140%;
+    margin-left: 0;
+    margin-top: -95;
+    border: solid forestgreen;
+  }
+
+.vl {
+    border-left: 6px solid green;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 400;
+  }
+
+#timer{
+    
+    margin-left: 1000;
+    margin-top: -50;
+    font-size: 100;
+    position: fixed;
+}
+
+#score{
+    position: fixed;
+    display: none;
+    font-size: 100;
+    margin-top: 20;
+    margin-left: 360;
+    color: gold;
+    font-family: cursive;
+}
+#start{
+    /* color: aqua; */
+   position: fixed;
+    font-size: 70;
+    background-color: cornsilk;
+    margin-left: 300;
+    margin-top: 100;
+    cursor: pointer;
+    margin-left: 340;
+    
+}
+
+#restart{
+    font-size: 70;
+    background-color: cornsilk;
+    margin-left: 350;
+    margin-top: 200;
+    cursor: pointer;
+    margin-left: 420;
+    display: none;
+}
+#container{
+    display: none;
+}
