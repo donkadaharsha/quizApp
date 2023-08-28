@@ -1,7 +1,7 @@
 const options = document.querySelectorAll('.options')
 
 const map = new Map([
-  ["C:\\Users\\vardh\\OneDrive\\Documents\\study\\PersonalBlog\\quizApp\\placepics\\TajMahal.jpeg", "Taj Mahal"],
+  ["https://github.com/donkadaharsha/quizApp/blob/master/placepics/TajMahal.jpeg", "Taj Mahal"],
   ["C:\\Users\\vardh\\OneDrive\\Documents\\study\\PersonalBlog\\quizApp\\placepics\\Colosseum.jpeg", "Colosseum"],
   ["C:\\Users\\vardh\\OneDrive\\Documents\\study\\PersonalBlog\\quizApp\\placepics\\Eiffel Tower.jpg", "Eiffel Tower"],
   ["C:\\Users\\vardh\\OneDrive\\Documents\\study\\PersonalBlog\\quizApp\\placepics\\Machu_Picchu,_Peru.jpg", "Macchu Picchu"],
